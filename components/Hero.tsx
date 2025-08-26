@@ -1,3 +1,5 @@
+
+//updated portfolio in the hero section 
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { cn } from "@/lib/utils";
